@@ -1,0 +1,12 @@
+[12-May-2020 14:46:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/mynexfh2/public_html/nmdsaleem.in/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/mynexfh2/public_html/nmdsaleem.in/wp-content/plugins/hello.php on line 59
+[23-Nov-2020 11:37:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/mynexfh2/public_html/nmdsaleem.in/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/mynexfh2/public_html/nmdsaleem.in/wp-content/plugins/hello.php on line 59
+[23-Nov-2020 11:37:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/mynexfh2/public_html/nmdsaleem.in/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/mynexfh2/public_html/nmdsaleem.in/wp-content/plugins/hello.php on line 59
